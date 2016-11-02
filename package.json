@@ -1,6 +1,6 @@
 {
   "name": "talkify-classifier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Classifier interface for Talkify",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,6 @@
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
   },
   "keywords": [
-    "ibm",
-    "watson",
     "talkify",
     "bot",
     "classifier",
